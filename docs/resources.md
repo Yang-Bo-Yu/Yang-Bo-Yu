@@ -91,7 +91,7 @@ Lists are sorted chronologically.
 <ul>
     <li><a href="https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview">Quantum Computation and Quantum Information</a>. Michael A. Nielsen and Isaac L. Chuang. 2010.</li>
     <li><a href="https://link.springer.com/book/10.1007/978-3-319-04150-6">Introduction to Matrix Analysis and Applications</a>. Fumio Hiai and Dénes Petz. 2014.</li>
-    <li><a href="https://link.springer.com/book/10.1007/978-3-319-48311-5">PConvex Analysis and Monotone Operator Theory in Hilbert Spaces</a>. Heinz H. Bauschke and Patrick L. Combettes. 2017.</li>
+    <li><a href="https://link.springer.com/book/10.1007/978-3-319-48311-5">Convex Analysis and Monotone Operator Theory in Hilbert Spaces</a>. Heinz H. Bauschke and Patrick L. Combettes. 2017.</li>
     <li><a href="https://arxiv.org/abs/1504.00233">Quantum Information Processing with Finite Resources: Mathematical Foundations</a>. Marco Tomamichel. 2021.</li>
     <li><a href="https://www.markwilde.com/PQCT-khatri-lami-wilde.pdf">Principles of Quantum Communication Theory: A Modern Approach</a>. Sumeet Khatri, Ludovico Lami, and Mark M. Wilde. 2025.</li>
     
