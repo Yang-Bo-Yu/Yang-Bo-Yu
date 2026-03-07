@@ -124,7 +124,6 @@ Lists are sorted chronologically.
 <h4 class="sub-section"><span>On Writing</span></h4>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=vtIzMaLkCaM">Larry McEnerney: The Craft of Writing Effectively</a></li>
-    <li><a href="https://spinlab.me/2017/07/30/claude-shannons-1952-lecture-on-creative-thinking">Claude Shannon’s 1952 Lecture on Creative Thinking</a></li>
 </ul>
 
 <h4 class="sub-section"><span>On Reviewing</span></h4>
