@@ -48,11 +48,11 @@ would you proofread with me
 the verses carved upon the gravestone?  
 <br>
 I will forget the wide wheat fields below the hill,  
-forget the stillness,  
+forget the calmness,  
 forget how a cappella clouds  
 withstand the sinking of the light cone.  
 <br>
-And so the wind moves quietly across the summit.  
+And so the wind flows quietly across the summit.  
 Air currents turn at dusk, gathering,  
 forming a distant road of suffering  
 that leads into the void.  
