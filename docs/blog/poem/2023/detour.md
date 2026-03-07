@@ -49,7 +49,7 @@ the verses carved upon the gravestone?
 <br>
 I will forget the wide wheat fields below the hill,  
 forget the stillness,  
-forget how a cappella clouds 
+forget how a cappella clouds  
 withstand the sinking of the light cone.  
 <br>
 And so the wind moves quietly across the summit.  
