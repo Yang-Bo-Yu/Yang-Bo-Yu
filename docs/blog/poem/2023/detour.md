@@ -30,7 +30,7 @@
 
 <br>
 
-And so I step once more onto this slanting road,  
+So I step once more onto this slanting road,  
 chasing the dusk, chasing the ghosts of yesterday.  
 <br>
 Life is a Markov chain in exile.  
