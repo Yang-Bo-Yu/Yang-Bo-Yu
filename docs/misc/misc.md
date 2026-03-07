@@ -1,14 +1,14 @@
-# Miscellaneous
+# Wilderness
 
 ---
 
 <br>
 
-[My writings](writings.md): poetry, prose, and concert reviews.
+[Writings](writings.md)
 
-[Books I read](books.md)
+[Books and Albums](books.md)
 
-[My favorite quotes](quotes.md)
+[Favorite quotes](quotes.md)
 
 <br>
 <br>

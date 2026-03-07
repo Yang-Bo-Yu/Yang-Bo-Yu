@@ -87,7 +87,7 @@ Lists are sorted chronologically.
     
 </ul>
 
-<h4 class="sub-section"><span>Quantum Information Theory</span></h4>
+<h4 class="sub-section"><span>Quantum Information Processing</span></h4>
 <ul>
     <li><a href="https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview">Quantum Computation and Quantum Information</a>. Michael A. Nielsen and Isaac L. Chuang. 2010.</li>
     <li><a href="https://link.springer.com/book/10.1007/978-3-319-04150-6">Introduction to Matrix Analysis and Applications</a>. Fumio Hiai and Dénes Petz. 2014.</li>
@@ -100,14 +100,38 @@ Lists are sorted chronologically.
 
 
 
-<h3 class="push-down-2"><span>Careers</span></h3>
+<h3 class="push-down-2"><span>Mindsets</span></h3>
+
+<h4 class="sub-section"><span>On Careers</span></h4>
 <ul>
-    <li></li>
+    <li><a href="https://matt.might.net/articles/">Matt Might's article index</a></li>
+    <li><a href="https://github.com/pliang279/awesome-phd-advice">Collection of advice for prospective and current PhD students</a></li>
+    <li><a href="https://github.com/shaily99/advice">A repository of links with advice related to grad school</a></li>
+    <li><a href="https://karpathy.github.io/2016/09/07/phd/">A Survival Guide to a PhD</a></li>
+    <li><a href="https://anandbhattad.github.io/blogs/jr_grads.html">So You Want to Be an Academic?</a></li>
+    <li><a href="https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/">Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations</a></li>
+    
 </ul>
 
-<h4 class="sub-section"><span>On Research</span></h4>
+<h4 class="sub-section"><span>On Thinking</span></h4>
 <ul>
-    <li></li>
+    <li><a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">Richard Hamming: You and Your Research</a></li>
+    <li><a href="https://spinlab.me/2017/07/30/claude-shannons-1952-lecture-on-creative-thinking">Claude Shannon’s 1952 Lecture on Creative Thinking</a></li>
+    <li><a href="http://www.quest.lab.uec.ac.jp/han/gokudou.html">Te Sun Han: Science as Yakuza</a></li>
+    <li><a href="https://compsci.science/slowscience">Slow Science</a></li>
+</ul>
+
+<h4 class="sub-section"><span>On Writing</span></h4>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=vtIzMaLkCaM">Larry McEnerney: The Craft of Writing Effectively</a></li>
+    <li><a href="https://spinlab.me/2017/07/30/claude-shannons-1952-lecture-on-creative-thinking">Claude Shannon’s 1952 Lecture on Creative Thinking</a></li>
+</ul>
+
+<h4 class="sub-section"><span>On Reviewing</span></h4>
+<ul>
+    <li><a href="https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/">How to become good at peer review: A guide for young scientists</a></li>
+    <li><a href="https://www.cs.colostate.edu/~cs656/alan-meier.pdf">Alan Meier: How to Review a Technical Paper</a></li>
+    <li><a href="https://www.cs.utexas.edu/~dahlin/professional/parbery-referee.pdf">A Guide for New Referees in Theoretical Computer Science</a></li>
 </ul>
 
 <!--

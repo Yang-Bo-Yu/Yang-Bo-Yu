@@ -72,13 +72,15 @@ h5,
 h6 {
   font-family: 'Crimson Text', 'Noto Serif TC', serif !important;
   font-weight: 700;
-  margin-top: 1.5em;
+  line-height: 1.35;
+  margin-top: 0em;
   margin-bottom: 0.5em;
 }
 
 h1 {
   font-size: 2.2em;
-  border-bottom: none;
+  margin-top: 0.5em;
+  border-bottom: 1px solid #eaecef9c;
 }
 
 @media (max-width: 480px) {
@@ -89,17 +91,33 @@ h1 {
 
 h2 {
   font-size: 1.8em;
-  border-bottom: 1px solid #eaecef;
+  border-bottom: 1px solid #eaecef9c;
+  margin-top: 0.5em;
   padding-bottom: 0.3em;
 }
 
-a {
-  color: #0000cd;
+h3 {
+  font-size: 1.4em;
+  margin-top: 0.5em;
+}
+
+/*a {
+  color: #1E90FF;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+}*/
+
+a {
+  color: #009bdd;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #27408B;
 }
 
 footer {
@@ -188,6 +206,10 @@ footer {
 ol {
   list-style-type: decimal;
   margin-left: 2em;
+}
+
+ol[type="I"] {
+  list-style-type: upper-roman;
 }
 
 ol li {
