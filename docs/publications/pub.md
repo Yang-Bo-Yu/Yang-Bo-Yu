@@ -1,10 +1,8 @@
 # Publications
 
----
-
 <br>
 
-**Conference proceedings.**
+## Conference proceedings
 
 <br>
 

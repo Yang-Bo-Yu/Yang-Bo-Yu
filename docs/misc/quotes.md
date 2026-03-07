@@ -1,7 +1,5 @@
 # My favorite quotes
 
----
-
 <br>
 
 1. Genius is an infinite capacity for taking pains.
@@ -28,12 +26,11 @@
 
 12. 人性是人自己在歷史發展的過程中製造出來的。
 
-13. "Music is enough for a lifetime, but a lifetime is not enough for music."
-— Sergei Rachmaninoff.
+13. "Music is enough for a lifetime, but a lifetime is not enough for music." — Sergei Rachmaninoff.
 
 14. The music is not in the notes, but in the silence between.
 
-15. The picture resembles trees in the forest: their chunks stand apart, but their crowns intertwine. At first, they grow independently, but then their NM NMtwigs and branches intertwine making their neg,gmmffd seew common crown.
+15. "Elegance doesn't mean being noticed, it means being remembered." — Giorgio Armani.
 
 16. 生活就像一座城市：要了解它，你必須迷失其中。
 
@@ -51,8 +48,5 @@
 
 23. 蒙田：「不要期望從我談的事物中，而是要從我談事物的方式中去得到些東西。」
 
-24. Artists are people driven by the tension between the desire to communicate and the desire to hide.
-— Donald Woods Winnicort.
+24. "Artists are people driven by the tension between the desire to communicate and the desire to hide." — Donald Woods Winnicort.
 
-25. Elegance doesn't mean being noticed, it means being remembered.
-— Giorgio Armani.
